@@ -1,7 +1,7 @@
 # Sobre mim:
 - Técnico em Desenvolvimento de Sistemas
 - 16 Anos
-
+- DBD 😍🫦
 
 ## 🌐 Redes sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/imundoimundo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/okkennethhh) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@okkennethhh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto::lordlqft0@gmail.com)
