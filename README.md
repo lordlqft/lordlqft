@@ -9,9 +9,11 @@
 # 💻 Domínio:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 # 📊 Status:
-![](https://github-readme-stats.vercel.app/api?username=lordlqft&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lordlqft&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordlqft&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=lordlqft&show_icons=true&theme=dark" />
+
+<img src="https://streak-stats.demolab.com?user=lordlqft&theme=dark" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordlqft&layout=compact&theme=dark" />
 
 ## 🏆 Troféus:
 ![](https://github-profile-trophy.vercel.app/?username=lordlqft&theme=radical&no-frame=false&no-bg=true&margin-w=4)
