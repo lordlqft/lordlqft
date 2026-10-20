@@ -1,6 +1,6 @@
 # ‼️ Sobre mim:
 - Técnico em Desenvolvimento de Sistemas
-- 16 Anos
+- 17 Anos
 - The Binding of Isaac 😍🫦
 
 
