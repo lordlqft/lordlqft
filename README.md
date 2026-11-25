@@ -1,5 +1,5 @@
 # 💫 About Me:
-‼️ Sobre mim:<br>- Técnico em Desenvolvimento de Sistemas<br>- 17 Anos<br>- The Binding of Isaac 😍🫦
+‼️ Sobre mim:<br>- Técnico em Desenvolvimento de Sistemas<br>- 17 Anos
 
 
 ## 🌐 Socials:
